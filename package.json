@@ -1,0 +1,22 @@
+{
+  "name": "node-s3-upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/hideyuki/node-s3-upload.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hideyuki/node-s3-upload/issues"
+  },
+  "homepage": "https://github.com/hideyuki/node-s3-upload",
+  "dependencies": {
+    "aws-sdk": "^2.1.26"
+  }
+}
